@@ -1,4 +1,4 @@
-# simple-pancakeswap-sdk
+# simple-pancakeswap-v2-sdk
 
 [![npm version](https://badge.fury.io/js/simple-pancakeswap-sdk.svg)](https://badge.fury.io/js/simple-pancakeswap-sdk)
 ![downloads](https://img.shields.io/npm/dw/simple-pancakeswap-sdk)
